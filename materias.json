@@ -1,0 +1,562 @@
+[
+    {
+        "Materia": "Algoritmos y Programación II",
+        "Carreras": "CDO",
+        "Inicio Cursada": "",
+        "Horarios Cursada": "",
+        "Última modificación": ""
+    },
+    {
+        "Materia": "Aprendizaje Automático Profundo (Deep Learning)",
+        "Carreras": "LI, LS",
+        "Inicio Cursada": "Aprendizaje Automático Profundo (Deep Learning) 2024\nInicio de clases: miércoles 14/08/2024 - 12 hs - Aula 14\nConsultas: aap.unlp@gmail.com",
+        "Horarios Cursada": "TEORIA : miércoles de 12 a 14 hs - Aula 14\nPRACTICA : lunes de 13:30 a 15:30 hs - Sala de PC grande - 1er. piso",
+        "Última modificación": "29/07/2024 11:35"
+    },
+    {
+        "Materia": "Arquitectura de Computadoras",
+        "Carreras": "APU, ATIC, LI, LS",
+        "Inicio Cursada": "El Miércoles 14/8 comenzarán las clases de teoría de los 4 turnos disponibles.",
+        "Horarios Cursada": "Teorias Miércoles en 4 turnos\nPrácticas Martes y Viernes para cada turno\nver información en: http://weblidi.info.unlp.edu.ar/catedras/arquitecturap2003/",
+        "Última modificación": "30/07/2024 14:19"
+    },
+    {
+        "Materia": "Bases de Datos 1",
+        "Carreras": "APU, LI, LS",
+        "Inicio Cursada": "SEGUNDO SEMESTRE\n inicio de clases teóricas MIERCOLES 14/08  08:30hs. AULA 11\nconsultas y dudas:\nAlejandra Lliteras: alejandra.lliteras@lifia.info.unlp.edu.ar",
+        "Horarios Cursada": "Serán publicados la semana del 12 de agosto\nJefes de trabajos prácticos:\nNatalia Correa: natalia.correa@lifia.info.unlp.edu.ar\nFederico Di Claudio: federicodicla@gmail.com",
+        "Última modificación": "18/07/2024 12:16"
+    },
+    {
+        "Materia": "Bases de Datos Distribuidas",
+        "Carreras": "IC, LS",
+        "Inicio Cursada": "",
+        "Horarios Cursada": "",
+        "Última modificación": ""
+    },
+    {
+        "Materia": "Calidad en Sistemas de Software",
+        "Carreras": "ATIC, IC, LS",
+        "Inicio Cursada": "Reunion Inicial Lunes 28/8 16:00 hs Aula 1-4",
+        "Horarios Cursada": "Lunes 16:00hs Aula 1-4",
+        "Última modificación": "22/08/2023 13:29"
+    },
+    {
+        "Materia": "Cloud Computing y Cloud Robotics",
+        "Carreras": "ATIC, LI, LS",
+        "Inicio Cursada": "Jueves 19/8/2021",
+        "Horarios Cursada": "Jueves 18hs",
+        "Última modificación": "12/02/2021 11:21"
+    },
+    {
+        "Materia": "Computabilidad y Complejidad",
+        "Carreras": "IC, LI",
+        "Inicio Cursada": "Iniciaremos las actividades de acuerdo con el cronograma de la Carrera.\nClase inicial: miércoles 14/8/24.\nTodo el material y comunicación con la cátedra se llevará a cabo por la plataforma Ideas, inscribirse en 2024-CyC, donde se anunciarán las actividades y se pondrá a disposición el material para el desarrollo de las mismas.Recordar que la inscripción en Ideas no reemplaza ni complementa la inscripción en el sistema Guaraní. La plataforma Ideas es utilizada para toda la actividad académica de la cátedra.",
+        "Horarios Cursada": "[Lunes, Aula 1 16:00 - 18:00, consultar miércoles en clase respecto de esta clase en días lunes]\nMiércoles, Aula 15 16:00 - 18:00",
+        "Última modificación": "29/07/2024 10:17"
+    },
+    {
+        "Materia": "Conceptos de Sistemas Operativos",
+        "Carreras": "IC",
+        "Inicio Cursada": "Segundo Semestre 2024\nInicio: Semana del 19/08/2024 \nToda la info para la matriculación en la plataforma a utilizar se encuentra en: http://gestiondeaulas.info.unlp.edu.ar/cartelera/#form[materia]=129&   (se requiere estar inscripto en la materia en SIU-Guarani)",
+        "Horarios Cursada": "Turno Mañana\n\nTeoría\n\nMartes de 8:30 a 10:00 hs. – Aula 5 \n Viernes de 11:30 a 13:00 hs. – Aula 5\n\n\nPráctica\n\nJueves de 8:00 a 9:30 hs. – Aula 5 \nViernes de 13:00 a 14:30 hs. – Aula 5\n\n\n\nTurno Tarde \n\nTeoría\n\nMiércoles de 19:00 a 20:30 hs. – Aula 11\nViernes de 19:00 a 20:30 hs. – Aula 4\n\n\nPráctica\n\nJueves de 19:00 a 20:30 hs. – Aulas 5\nViernes de 17:30 a 19:00 hs. – Aula 4",
+        "Última modificación": "01/07/2024 18:00"
+    },
+    {
+        "Materia": "Conceptos y Aplicaciones de Big Data",
+        "Carreras": "ATIC, LI, LS",
+        "Inicio Cursada": "Las clases comienzan el martes 13 de agosto.\nSolicitar acceso al curso en IDEAS para obtener más información.",
+        "Horarios Cursada": "La materia se dictará los días martes de 15 a 18.",
+        "Última modificación": "31/07/2024 17:35"
+    },
+    {
+        "Materia": "Desarrollo de Software en Sistemas Distribuidos",
+        "Carreras": "LS",
+        "Inicio Cursada": "22/8/2024 18hs",
+        "Horarios Cursada": "LUNES 14:00 a 16 - (Aula 7) Práctica\nJUEVES 18 a 21:30 (Aula 7) - Teoría y Práctica",
+        "Última modificación": "07/08/2024 08:14"
+    },
+    {
+        "Materia": "Desarrollo de Software para Blockchain",
+        "Carreras": "LS",
+        "Inicio Cursada": "",
+        "Horarios Cursada": "",
+        "Última modificación": ""
+    },
+    {
+        "Materia": "Diplomatura en Deportes Electrónicos",
+        "Carreras": "DDE",
+        "Inicio Cursada": "Las cursadas de la Diplomatura en Deportes Electrónicos 2022 comenzará el martes 27 de septiembre",
+        "Horarios Cursada": "Martes y Jueves 19:00hs",
+        "Última modificación": "22/09/2022 11:03"
+    },
+    {
+        "Materia": "Diseño de Aplicaciones en la Web",
+        "Carreras": "IC",
+        "Inicio Cursada": "",
+        "Horarios Cursada": "",
+        "Última modificación": ""
+    },
+    {
+        "Materia": "Diseño de Bases de Datos",
+        "Carreras": "APU, ATIC, LI, LS",
+        "Inicio Cursada": "Semana del 12 de Agosto",
+        "Horarios Cursada": "Teorias: jueves 14:30 hs. (aula 5)\nViernes 8:30 hs. (aula 5)",
+        "Última modificación": "07/08/2024 13:12"
+    },
+    {
+        "Materia": "Diseño de interacciones en aplicaciones móviles",
+        "Carreras": "ATIC, LI, LS",
+        "Inicio Cursada": "La cursada 2024 comenzará el jueves 29 de agosto a las 8hs.",
+        "Horarios Cursada": "Clase teórico-práctica los jueves de 8 a 11hs en el Aula 1-2",
+        "Última modificación": "09/08/2024 18:58"
+    },
+    {
+        "Materia": "Enfoques para el desarrollo de Aplicaciones Móviles Multiplataforma",
+        "Carreras": "ATIC",
+        "Inicio Cursada": "Miercoles 24/08/2022 a las 16 hs. \nAula 2 Postgrado (2do piso)",
+        "Horarios Cursada": "",
+        "Última modificación": "18/08/2022 14:21"
+    },
+    {
+        "Materia": "Ingeniería de Aplicaciones Web",
+        "Carreras": "ATIC, LI, LS",
+        "Inicio Cursada": "",
+        "Horarios Cursada": "",
+        "Última modificación": ""
+    },
+    {
+        "Materia": "Ingeniería de Software (Ing en Computación)",
+        "Carreras": "IC",
+        "Inicio Cursada": "Primera clase teórica: \nMiercoles 23 de Agosto 13 Hs   Aula 3   (sólo la primera teoría se dicta un miércoles)",
+        "Horarios Cursada": "Teoría: Lunes 11 Hs   Aula 1-4 \nPractica: Miercoles  13:00 Hs Aula 3 y Viernes  8:00 Hs  Aula 10B",
+        "Última modificación": "11/08/2023 12:08"
+    },
+    {
+        "Materia": "Ingenieria de Software 1",
+        "Carreras": "APU, ATIC, LI, LS",
+        "Inicio Cursada": "Semana 14/8/23 Inicio de Teoría\nTurno 1: LUNES 11hs (Aula 5)\nTurno 2: MIERCOLES 14hs (aula 10A)\nTurno 3: JUEVES 17hs (aula 10B) \nSemana 21/8/22  Inicio de Práctica",
+        "Horarios Cursada": "",
+        "Última modificación": "14/08/2023 08:53"
+    },
+    {
+        "Materia": "Interfaces Adaptadas para Dispositivos Móviles",
+        "Carreras": "LI, LS",
+        "Inicio Cursada": "Miércoles 16 de septiembre- 10:30 hs.",
+        "Horarios Cursada": "Miércoles 10:30 hs. y martes 18 hs.",
+        "Última modificación": "20/08/2020 20:53"
+    },
+    {
+        "Materia": "Introducción a la ciberseguridad",
+        "Carreras": "ATIC, LI, LS",
+        "Inicio Cursada": "Jueves 15 de agosto de 2024",
+        "Horarios Cursada": "Jueves 19 hs\nBloque único de teoría y práctica de 3 horas",
+        "Última modificación": "21/03/2024 18:35"
+    },
+    {
+        "Materia": "Introducción a la Computación Móvil",
+        "Carreras": "ATIC, IC, LS",
+        "Inicio Cursada": "Primera Clase: Miércoles 21 de Agosto 2024, a las 19:00hs.\nClases Teórico-Práctica (modalidad taller). Escribir un mail a ceciliac@lifia.info.unlp.edu.ar para recibir más información en relación a la cursada.\nConsultas a Cecilia Challiol: ceciliac@lifia.info.unlp.edu.ar",
+        "Horarios Cursada": "Clases Teórico-Práctica (modalidad taller), un encuentro semanal de 2hs.\nEn la primera clase se coordinará la dinámica de la cursada.",
+        "Última modificación": "01/08/2024 14:15"
+    },
+    {
+        "Materia": "Introducción a la Forensia Digital",
+        "Carreras": "APU, ATIC, LI, LS",
+        "Inicio Cursada": "Martes 06/09/22",
+        "Horarios Cursada": "Martes y Jueves de 17hs a 19hs",
+        "Última modificación": "08/02/2022 19:01"
+    },
+    {
+        "Materia": "Introducción a los Sistemas Operativos",
+        "Carreras": "APU, ATIC, LI, LS",
+        "Inicio Cursada": "Segundo Semestre 2024\nInicio: Semana del 19/08/2024\nSe notificara por Guarani el acceso a la plataforma .",
+        "Horarios Cursada": "Turno Mañana\n\nTeoría\n\nMartes de 8:30 a 10:00 hs. – Aula 5 \n Viernes de 11:30 a 13:00 hs. – Aula 5\n\n\nPráctica\n\nJueves de 8:00 a 9:30 hs. – Aula 5 \nViernes de 13:00 a 14:30 hs. – Aula 5\n\n\n\nTurno Tarde \n\nTeoría\n\nMiércoles de 19:00 a 20:30 hs. – Aula 11\nViernes de 19:00 a 20:30 hs. – Aula 4\n\n\nPráctica\n\nJueves de 19:00 a 20:30 hs. – Aulas 5\nViernes de 17:30 a 19:00 hs. – Aula 4",
+        "Última modificación": "29/07/2024 11:22"
+    },
+    {
+        "Materia": "Laboratorio de Software",
+        "Carreras": "LI, LS",
+        "Inicio Cursada": "Estimad@s, \nEstaremos comenzando las clases de Laboratorio de Software el MIÉRCOLES 21/8.",
+        "Horarios Cursada": "TEORÍA\nMiércoles de 14:30 hs a 16:30 hs: AULA 7 (pb)\nPRÁCTICA\nMiércoles de 16:30 hs a 20:00 hs: Sala de PC grande (1er piso)",
+        "Última modificación": "29/07/2024 18:20"
+    },
+    {
+        "Materia": "Lógica e Inteligencia Artificial",
+        "Carreras": "LI, LS",
+        "Inicio Cursada": "Inicio: Martes 20 de agosto de 2024",
+        "Horarios Cursada": "TEORÍA:\nMartes, 16:00 a  18:30 hs. Aula 1-4.\nPRÁCTICA:\nSábado,  10:00 a 12:00 hs. Aula 2.",
+        "Última modificación": "01/08/2024 16:57"
+    },
+    {
+        "Materia": "Logica y Elementos de Inteligencia Artificial",
+        "Carreras": "LI",
+        "Inicio Cursada": "",
+        "Horarios Cursada": "",
+        "Última modificación": ""
+    },
+    {
+        "Materia": "Matemática 2",
+        "Carreras": "APU, ATIC, LI, LS",
+        "Inicio Cursada": "",
+        "Horarios Cursada": "",
+        "Última modificación": ""
+    },
+    {
+        "Materia": "Matemática 4",
+        "Carreras": "LI, LS",
+        "Inicio Cursada": "Las clases comienzan el Martes 13 de Agosto.\nMás información proximamente en la Cartelera Virtual.",
+        "Horarios Cursada": "Martes y Viernes 18:00 hs",
+        "Última modificación": "02/08/2024 18:02"
+    },
+    {
+        "Materia": "Matemática B",
+        "Carreras": "CDO",
+        "Inicio Cursada": "",
+        "Horarios Cursada": "",
+        "Última modificación": ""
+    },
+    {
+        "Materia": "Métodos Ágiles para Aplicaciones Web",
+        "Carreras": "ATIC, LI, LS",
+        "Inicio Cursada": "La cursada comienza el 31 de agosto de 2023 a las 8:30hs en el Aula 1-4.",
+        "Horarios Cursada": "La materia se dictará los días jueves de 8:30 a 10hs. en el Aula 1-4. Luego se podrá definir un horario diferente para el seguimiento de proyectos por grupo en encuentros virtuales, de ser necesario.",
+        "Última modificación": "14/08/2023 19:27"
+    },
+    {
+        "Materia": "Orientación a Objetos 1",
+        "Carreras": "APU, ATIC, LI, LS",
+        "Inicio Cursada": "El inicio de actividades en el segundo semestre de 2024 serla la semana del 26/8.\nLa primer clase teórica tendrá lugar el Martes 27/8 a las 14:00 en el aula 5. \nLos alumnos serán matriculados automáticamente (de manera incremental) en la plataforma Moodle que utilizaremos. La sincronización se completará unos días antes al comienzo de actividades. \nDurante la primer semana informaremos a los alumnos sobre todos los aspector organizativos relativos a la inscripción en las prácticas, evaluación y regimen de promoción.\nConsultas: objetos.uno@lifia.info.unlp.edu.ar",
+        "Horarios Cursada": "Teoria \n\nMartes 14hs-17hs - Aula 5 (Teoría). \nJueves 9:30hs-12:30hs - Aula 5 (Consulta de teoría - aula invertida y actividades para reforzar y complementar lo visto el martes). \n\n \nExplicaciones de práctica:\n\nLunes de 18 a 19:30hs - Aula 5 . \n\nPráctica (se requiere inscripción en comisiones)\n\nComisión 1 - Martes, 11:00, 12:30, Sala PC\nComisión 2 - Martes, 12:30, 14:00, Aula 8\nComisión 3 - Miércoles, 17:30, 19:00, Aula 1-1 + Aula 1-2\nComisión 4 - Miércoles, 19:00, 20:30, Aula 1-1 + Aula 1-2\nComisión 5 - Jueves, 14:00 a 15:30, Sala PC\nComisión 6 - Jueves, 17:30, 19:00, Aula 1-1\nComisión 7 - Viernes, 8:00, 9:30, Sala PC\nComisión 8 - Viernes, 9:30, 11:00, Sala PC\nComisión 9 - Viernes, 11:00, 12:30, Sala PC\nComisión 10 - Viernes, 12:30, 14:00, Sala PC",
+        "Última modificación": "09/08/2024 11:32"
+    },
+    {
+        "Materia": "Programación Concurrente",
+        "Carreras": "APU, LI, LS",
+        "Inicio Cursada": "Pertenece al segundo semestre 2024.\nEl comienzo de las clases teóricas de los jueves está previsto para el 15/8.\nEl comienzo de las clases teóricas de los lunes está previsto para el 19/8.\nEl comienzo de las clases prácticas está previsto para la semana del 26/8.\nSolicitar inscripción en el curso \"Programación Concurrente 2024\" en la plataforma IDEAS.\nEn la semana anterior al inicio de las teorías se pondrán a disposición en Ideas las primeras teorías para que vayan viendo los videos antes de comenzar las clases donde preferentemente se atenderán las consultas sobre esas teorías.",
+        "Horarios Cursada": "Teoría turno mañana: lunes 8 hs.\nTeoría turno tarde: jueves 13 hs.\nPrácticas: martes 8.00 a 11.00, jueves 17 a 20  y sábados 9.00 a 12.00",
+        "Última modificación": "26/07/2024 12:02"
+    },
+    {
+        "Materia": "Programación Distribuida",
+        "Carreras": "LI",
+        "Inicio Cursada": "",
+        "Horarios Cursada": "",
+        "Última modificación": ""
+    },
+    {
+        "Materia": "Programación Distribuida y Tiempo Real",
+        "Carreras": "IC, LI, LS",
+        "Inicio Cursada": "Iniciaremos las actividades de acuerdo con el cronograma de la Carrera.\nClase inicial: jueves 15/8/24\nTodo el material y comunicación con la cátedra se llevará a cabo por la plataforma Ideas, inscribirse en 2024-PDyTR, donde se anunciarán las actividades y se pondrá a disposición el material para el desarrollo de las mismas.Recordar que la inscripción en Ideas no reemplaza ni complementa la inscripción en el sistema Guaraní. La plataforma Ideas es utilizada para toda la actividad académica de la cátedra.",
+        "Horarios Cursada": "Lunes 10:00, Aula 8\nJueves 17:00, Aula 15",
+        "Última modificación": "18/06/2024 16:47"
+    },
+    {
+        "Materia": "Programación Funcional",
+        "Carreras": "LI",
+        "Inicio Cursada": "20 de agosto a las 8hs AULA 1-2",
+        "Horarios Cursada": "Teoría : AULA 1-2, los días sábado de 8 a 11hs\nPráctica:AULA 1-4 (ALGOL) - jueves18:00 a 19:30 - 25/08/2022  (a confirmar en la primera clase teórica)",
+        "Última modificación": "29/08/2022 14:54"
+    },
+    {
+        "Materia": "Programación II",
+        "Carreras": "IC",
+        "Inicio Cursada": "INICIO de PROGRAMACION 2 - MIERCOLES 14 de Agosto 2024 - 08:30 hs -  Aula 10B\nRECORDAR: que deben inscribirse en SIU GUARANI para poder estar inscriptos formalmente. Revisen bien las fechas del SIU. Son dos instancias primero está abierto solo para los que tienen aprobado con final o pomoción Programación1. Luego se abrirá para el resto. (les recordaremos durante Agosto)\nConsultas a : programacion2unlp@gmail.com",
+        "Horarios Cursada": "Lunes y miercoles de 8:30 a 11:30 hs \nAula 10B",
+        "Última modificación": "05/08/2024 12:12"
+    },
+    {
+        "Materia": "Programación Lógica",
+        "Carreras": "LI",
+        "Inicio Cursada": "Agosto 2022\npor favor los inscriptos e interesados mandar un mail a claritasmith@gmail.com asi nos organizamos. Gracias",
+        "Horarios Cursada": "Sabados.",
+        "Última modificación": "16/08/2022 10:52"
+    },
+    {
+        "Materia": "Proyecto de Software",
+        "Carreras": "APU, LI, LS",
+        "Inicio Cursada": "Las clases inician el martes 13 de agosto de 2024.\nConsultas: proyecto@info.unlp.edu.ar",
+        "Horarios Cursada": "Teoría \nMartes 10:30hs \n \nExplicaciones de práctica\nViernes 18hs. \nPráctica\nLunes 17:30 a 20:30 hs.\nMartes 8 a 10 hs.\nJueves 15:30 a 18:30 hs.",
+        "Última modificación": "02/08/2024 11:26"
+    },
+    {
+        "Materia": "Redes de Datos II",
+        "Carreras": "IC",
+        "Inicio Cursada": "Clases Teóricas Viernes . Comenzamos el viernes 19 a las 10:00 en el Aula 1-3\nClases Práticas Miércoles . El Horario es de 15:30-18:30 en Aula 2. Confrmamos el inicio por plataforma.",
+        "Horarios Cursada": "Clases Teóricas: viernes 10:00-13:00\nClases Prácticas: Miércoles 16:00 - 18:00",
+        "Última modificación": "17/08/2022 08:59"
+    },
+    {
+        "Materia": "Redes y Comunicaciones",
+        "Carreras": "APU, LI, LS",
+        "Inicio Cursada": "17/08  comenzo el Dictado de  Redes y Comunaciones",
+        "Horarios Cursada": "Martes 9 hs Aula 10A\nMiércoles 19 hs AULA 10A",
+        "Última modificación": "17/08/2022 17:06"
+    },
+    {
+        "Materia": "Redictado - Algoritmos y Estructuras de Datos",
+        "Carreras": "APU, LI",
+        "Inicio Cursada": "La Cursada inicia en el martes 22/8/2023.",
+        "Horarios Cursada": "Clases Teóricas\nMartes de 15:30 hs a 17:00 hs.  Aula 4\nJueves de 18:00 hs a 19:30 hs. Aula 14\n \nLas clases teóricas comienzan el martes 22 de agosto de 2023.\nLas clases prácticas comienzan la semana del 28 de agosto de 2023.\nTurnos de práctica \n* Miércoles de 9:00 hs. a 11:00 hs. Sala Grande de PC\n* Miércoles de 17:00 hs. a 19:00 hs. Aula 8\n* Viernes de 14:00 a 16:00 hs. Aula 8",
+        "Última modificación": "16/08/2023 10:29"
+    },
+    {
+        "Materia": "Redictado - Bases de Datos",
+        "Carreras": "IC",
+        "Inicio Cursada": "Curso únicamente dictado por pandemia en el año 2020.",
+        "Horarios Cursada": "Curso únicamente dictado por pandemia en el año 2020.",
+        "Última modificación": "03/02/2022 11:16"
+    },
+    {
+        "Materia": "Redictado - Conceptos de Algoritmos, Datos y Programas",
+        "Carreras": "APU, LI, LS",
+        "Inicio Cursada": "Comisión 1:\n  - Teoría: Miércoles 16/08\n  - Práctica: Martes 22/08\nComisión 2:\n  - Teoría: Miércoles 16/08.\n - Práctica: Martes 22/08",
+        "Horarios Cursada": "Comisión 1:\n - Teoría: Miércoles de 8:00 a 10:00 hs. AULA 4\n - Prácticas Martes y viernes de 8:00 a 10:00 hs.\nComisión 2:\n - Teoría: Miércoles de 18:00 a 20:00 hs. AULA 15\n - Prácticas: Martes y viernes de 17:00 a 19:00 hs.",
+        "Última modificación": "10/08/2023 09:50"
+    },
+    {
+        "Materia": "Redictado - Conceptos de Arquitectura de Computadoras",
+        "Carreras": "IC",
+        "Inicio Cursada": "Las clases de teoría comienzan el 16/8.\nLas clases de práctica comienzan el 22/8.",
+        "Horarios Cursada": "Teorías: Miércoles de 11:30 a 14 hs. Aula 5.\nPrácticas: Martes y Viernes (aula 3) de 10 a 12 hs.\nSe utilizará el entorno IDEAS para acceder al material de clases de teoría y de trabajos prácticos. Solicitar acceso al curso \"Conceptos de Arquitectura de Computadoras - Redictado 2do semestre 2023\" a partir del 14/8 hasta el 30/8.",
+        "Última modificación": "22/08/2023 16:29"
+    },
+    {
+        "Materia": "Redictado - Conceptos de Bases de Datos",
+        "Carreras": "IC",
+        "Inicio Cursada": "Inicio de consultas prácticas: jueves 1 de septiembre 15hs. Aula 1.\nInscribirse en \"IDEAS\".  Curso: \"Conceptos de Bases de Datos - Redictado 2022\"",
+        "Horarios Cursada": "Inicio de consultas prácticas: jueves 1 de septiembre 15hs. Aula 1.\nInscribirse en \"IDEAS\".  Curso: \"Conceptos de Bases de Datos - Redictado 2022\"",
+        "Última modificación": "04/08/2022 10:33"
+    },
+    {
+        "Materia": "Redictado - Conceptos y Paradigmas de Lenguajes de Programación",
+        "Carreras": "LI, LS",
+        "Inicio Cursada": "",
+        "Horarios Cursada": "",
+        "Última modificación": ""
+    },
+    {
+        "Materia": "Redictado - Curso de Ingreso",
+        "Carreras": "LI",
+        "Inicio Cursada": "",
+        "Horarios Cursada": "",
+        "Última modificación": ""
+    },
+    {
+        "Materia": "Redictado - Curso de Nivelación de Ingeniería en Computación",
+        "Carreras": "IC",
+        "Inicio Cursada": "",
+        "Horarios Cursada": "",
+        "Última modificación": ""
+    },
+    {
+        "Materia": "Redictado - Fundamentos Organización de datos",
+        "Carreras": "APU, LI, LS",
+        "Inicio Cursada": "La clases inician el Viernes 16/08/2024. AULA 10B\nSolicitar acceso a partir del 05/08/2024 al curso en IDEAS: FOD - Redictado 2024",
+        "Horarios Cursada": "Viernes de 15:00hs. a 18:00hs. AULA 10B",
+        "Última modificación": "02/08/2024 09:04"
+    },
+    {
+        "Materia": "Redictado - Matemática 1",
+        "Carreras": "APU, LI, LS",
+        "Inicio Cursada": "Jueves 17 de agosto\nToda la información está en este link",
+        "Horarios Cursada": "Comisión 1B: lunes y jueves de 8 a 10:30hs AULA 11\nComisión 2C: lunes y jueves de 11 a 13:30hs AULA 15\nComisión 2D: lunes y jueves de 11 a 13:30hs AULA 3\nComisión 3A: lunes y jueves de 13:30 a 16hs AULA 9\nComisión 4A: lunes y jueves de 16 a 18:30hs AULA 9\nComisión 5A: lunes y jueves de 18:30 a 21hs AULA 9",
+        "Última modificación": "27/07/2023 17:05"
+    },
+    {
+        "Materia": "Redictado - Matemática 3",
+        "Carreras": "APU, LI, LS",
+        "Inicio Cursada": "",
+        "Horarios Cursada": "",
+        "Última modificación": ""
+    },
+    {
+        "Materia": "Redictado - Organización de Computadoras",
+        "Carreras": "APU, LI, LS",
+        "Inicio Cursada": "El lunes 14/8 comienza el dictado de teorías (aula 5, 14 hs)\nEl miércoles 24/8 comienza las explicaciones de prácticas.",
+        "Horarios Cursada": "Clases de teoría: Lunes 14 a 17 hs. Aula 5.\nClases de Prácticas: Miércoles 17 a 19 hs. Aula 11\nEl curso no tiene restricciones de asistencia. Utiliza el entorno IDEAS para publicar todo el material (notas de clases de teoría y trabajos prácticos).\nSolicitar acceso al curso \"Redictado OC 2023\" del 15 al 30/8.\nPágina web de referencia http://163.10.22.92//catedras/redictadoorganizacion/",
+        "Última modificación": "09/08/2023 09:39"
+    },
+    {
+        "Materia": "Redictado - Orientación a Objetos 2",
+        "Carreras": "APU, LI, LS",
+        "Inicio Cursada": "23 de Agosto 2023",
+        "Horarios Cursada": "Miercoles 18hs - Aula 3",
+        "Última modificación": "22/08/2023 14:02"
+    },
+    {
+        "Materia": "Redictado - Programación I",
+        "Carreras": "IC",
+        "Inicio Cursada": "Las clases teóricas del redictado de Programación I comienzan el jueves 15/08 a las 15hs en el aula 10B\nLas clases prácticas comienzan el lunes 19/8 a las 8hs. Las comisiones se publicarán en las próximas semanas en el blog de la cátedra: https://blogs.ead.unlp.edu.ar/progra1/\n¡Los esperamos!",
+        "Horarios Cursada": "Teoría: Martes de 10 a 12hs y Jueves de 15 a 17hs - AULA 10B (requiere un porcentaje de asistencias para promocionar)\nCLASES PRÁCTICAS con Explicaciones de Práctica y Espacios de consultas de práctica: Lunes y Miércoles de 8 a 10hs ---> (requiere un porcentaje de asistencias para poder rendir el parcial)",
+        "Última modificación": "30/07/2024 16:55"
+    },
+    {
+        "Materia": "Redictado - Programación III",
+        "Carreras": "IC",
+        "Inicio Cursada": "El Inicio de clases será el día Miércoles 1/9/2021 a las 8:00hs",
+        "Horarios Cursada": "Los horarios de la teoría son los días Miércoles de 8 a 10 hs.Los horarios de la práctica son los días Miércoles de 16 a 18 hs",
+        "Última modificación": "23/08/2021 22:15"
+    },
+    {
+        "Materia": "Redictado - Seminario de Lenguajes PHP, React y API Rest",
+        "Carreras": "APU, LI, LS",
+        "Inicio Cursada": "26/08/2024",
+        "Horarios Cursada": "TEORÍA\nAULA 2 - Lunes de 8:00 a 10:00 hs.\nCOMIENZO TEORÍA 26/08\n \nPRÁCTICAS\nAULA 1-1 - Martes 18:00 a 20:00\nAULA 1-1 - Jueves 8:00 a 10:00\n \nIMPORTANTE:\nSolicitar acceso al curso \"Seminario De Lenguajes - PHP, React y Api Rest - Redictado 2024\" en IDEAS.",
+        "Última modificación": "13/02/2024 15:07"
+    },
+    {
+        "Materia": "Redictado - Taller de Lenguajes I",
+        "Carreras": "IC",
+        "Inicio Cursada": "Taller de Lenguajes 1 (redictado) 2024\nInicio de clases: Miércoles 14/08/2024 a las 8 hs (aula a confirmar)\ne-mail: tallerleng1@gmail.com\nMás información en weblidi.info.unlp.edu.ar/catedras/TallerLeng1",
+        "Horarios Cursada": "TeoríaLunes de 10 a 12 hs - Aula 14PrácticasMiércoles y Viernes de 8 a 10 hs en el Aula 8",
+        "Última modificación": "24/07/2024 11:01"
+    },
+    {
+        "Materia": "Redictado de Concurrencia y Paralelismo",
+        "Carreras": "IC",
+        "Inicio Cursada": "La cursada inicia el15/8/2023 a las 12 hs.",
+        "Horarios Cursada": "Martes: de 12 a 14 hs. - aula 7\nViernes: de 11 a 14 hs. - aula 1-4",
+        "Última modificación": "05/02/2023 09:37"
+    },
+    {
+        "Materia": "Seguridad y Privacidad en Redes",
+        "Carreras": "ATIC, IC, LI, LS",
+        "Inicio Cursada": "",
+        "Horarios Cursada": "",
+        "Última modificación": ""
+    },
+    {
+        "Materia": "Seminario de Lenguajes - .NET  (Redictado)",
+        "Carreras": "APU, LI, LS",
+        "Inicio Cursada": "Inicio: Martes 13/8/2024 - 16:00 hs. Sala grande de PCs",
+        "Horarios Cursada": "La materia se dictará los días martes de 16:00 a 19:00 en la Sala grande de PCs",
+        "Última modificación": "20/02/2024 13:15"
+    },
+    {
+        "Materia": "Sistemas de Tiempo Real",
+        "Carreras": "IC",
+        "Inicio Cursada": "17/8/2022 en aula 1-3 a las 11 teoria y práctica 14hs aula pc grande.",
+        "Horarios Cursada": "17/8/2022 en aula 1-3 a las 11 teoria y práctica 14hs aula pc grande.",
+        "Última modificación": "03/08/2022 10:26"
+    },
+    {
+        "Materia": "Sistemas y Organizaciones",
+        "Carreras": "LS",
+        "Inicio Cursada": "",
+        "Horarios Cursada": "",
+        "Última modificación": ""
+    },
+    {
+        "Materia": "Taller de Arquitectura",
+        "Carreras": "IC",
+        "Inicio Cursada": "Viernes 25 de Agosto, Aula 7, 11:00 hs.",
+        "Horarios Cursada": "Curso teórico-práctico.\nMartes (aula 1-3) de 12:00 a 14:00 hs y Viernes (aula 7) de 11:00 a 14:00 hs\nSe utilizará el entorno IDEAS para distribución, intercambio y evaluaciones de material de trabajo. Solicitar acceso al curso \"Taller de Arquitectura\" del 14/8 al 30/8. \nPágina web de la cátedra: http://163.10.22.92//catedras/tallerArquitectura/",
+        "Última modificación": "09/08/2023 09:31"
+    },
+    {
+        "Materia": "Taller de Lecto-Comprensión y Traducción en Ingles",
+        "Carreras": "APU, ATIC, LI, LS",
+        "Inicio Cursada": "Cronograma de Inicio de Clases\nSEGUNDO  SEMESTRE 2024\nClases Teóricas: \nMartes 13/8 - 13 horas Aula 14\nViernes 16/8 - 8 horas - Aula 10A\nClases Prácticas: \nInician en la semana del 26/8\n  Importante: todas las novedades se irán publicando en el \nAV: Inglés: Exámenes y Consultas (MOODLE, Contraseña: invitadosingles)",
+        "Horarios Cursada": "HORARIOS de  CLASES TEÓRICO-PRÁCTICAS 2024\nComisión Martes 13.00 a 16:00 hs. (Prof. Napolitano) Aula 14\nComisión Viernes 8:00 a 11:00 hs. (Prof. Peralta) Aula 10 A\nHORARIOS TRABAJOS PRÁCTICOS\nComisión 1: lunes 8:15 a 11:15 hs (Prof. Regueral) Aula 1-2\nComisión 2: miércoles 9:00 a 12:00 hs (Prof. Fraga)  Aula 1-2\nComisión 3: jueves 9:00 a 12:00 hs (Prof. Arguiano) Aula 7\nComisión 4: viernes 15:00 a 18:00 hs (Prof. Gavagnin) Aula 7",
+        "Última modificación": "05/08/2024 10:17"
+    },
+    {
+        "Materia": "Taller de Lenguajes II",
+        "Carreras": "IC",
+        "Inicio Cursada": "CURSADA 2024\nInicio de cursada: LUNES 19/8 a las 16:00 hs.",
+        "Horarios Cursada": "CURSADA 2024 - Horarios\nTEORÍA\nLunes de 16:00 hs a 18:00 hs - AULA 10 A\nPRÁCTICA\n- Lunes de 18:30 hs a 20:30 hs - AULA 10 A\n- Comisión 1: Martes de 18:30 hs a 20:00 hs - AULA 14 \n- Comisión 2: Jueves de 17:30 hs a 20:00 hs - AULA 8",
+        "Última modificación": "08/08/2024 18:52"
+    },
+    {
+        "Materia": "Taller de Programación",
+        "Carreras": "APU, ATIC, LI, LS",
+        "Inicio Cursada": "Las clases comienzan la semana del 22/8.",
+        "Horarios Cursada": "",
+        "Última modificación": "07/08/2023 11:41"
+    },
+    {
+        "Materia": "Taller de Programación sobre GPU",
+        "Carreras": "ATIC, IC, LI, LS",
+        "Inicio Cursada": "Cursada 2024 - 2do Semestre\nInicio de clases viernes 16 de Agosto 8:30hs Sala de PC de postgrado. \nSolicitar inscripción a IDEAS (https://ideas.info.unlp.edu.ar/) donde se publicará el material y la modalidad.\nPor cualquier duda o consulta comunicarse a apousa@lidi.info.unlp.edu.ar",
+        "Horarios Cursada": "Viernes 8:30hs-11hs Sala de PC de postgrado",
+        "Última modificación": "08/08/2024 08:14"
+    },
+    {
+        "Materia": "Taller de Proyecto II",
+        "Carreras": "IC",
+        "Inicio Cursada": "Iniciaremos las actividades de acuerdo con el cronograma de la Carrera.\nClase inicial: jueves 15/8/24.\nTodo el material y comunicación con la cátedra se llevará a cabo por la plataforma Ideas, inscribirse en 2024-TdPII, donde se anunciarán las actividades y se pondrá a disposición el material para el desarrollo de las mismas.",
+        "Horarios Cursada": "Lunes  08:30 - 10:00, Aula 7     Jueves 18:30 - 20:00, Aula 15",
+        "Última modificación": "18/06/2024 16:46"
+    },
+    {
+        "Materia": "Taller de Tecnología de la Producción de Software (Opción Taller de Desarrollo de Software Guiado por los Requerimientos)",
+        "Carreras": "APU",
+        "Inicio Cursada": "Miercoles 31 de Agosto",
+        "Horarios Cursada": "17,30 horas en el aula 1-3",
+        "Última modificación": "21/08/2022 17:06"
+    },
+    {
+        "Materia": "Taller de Tecnologías de Producción de Software (Opción Ingeniería de Software Aplicada)",
+        "Carreras": "APU",
+        "Inicio Cursada": "El martes 23/08/2022 a las 16 hs. comienzan las clases en el aula 1-3",
+        "Horarios Cursada": "",
+        "Última modificación": "16/08/2022 18:42"
+    },
+    {
+        "Materia": "Taller de Tecnologías de Producción de Software (Opción Java)",
+        "Carreras": "APU",
+        "Inicio Cursada": "CURSADA 2021\n27 de Agosto a las 14 hs.\nPor moodle, catedras.info.unlp.edu.ar",
+        "Horarios Cursada": "Viernes de 14 a 16 hs. Clases Teóricas\nViernes de 16 a 19 hs. Clases Prácticas",
+        "Última modificación": "08/08/2024 07:30"
+    },
+    {
+        "Materia": "Taller de Tecnologías de Producción de Software (Opción Ruby)",
+        "Carreras": "APU",
+        "Inicio Cursada": "La cursada comenzará la semana del 19 de agosto",
+        "Horarios Cursada": "Lunes de 18 a 20 hs en el aula 14\nJueves de 10 a 12 hs en el aula 1",
+        "Última modificación": "01/08/2024 10:45"
+    },
+    {
+        "Materia": "Taller de Tecnologías de Producción de Software (Opción Técnicas y Estrategias)",
+        "Carreras": "APU",
+        "Inicio Cursada": "Las clases comienzan el viernes 18/8 a las 16 hs.",
+        "Horarios Cursada": "Miércoles de 15 a 17 hs. Aula 1-1\nViernes de 16 a 18 hs. Sala 8",
+        "Última modificación": "14/08/2023 10:54"
+    },
+    {
+        "Materia": "Tecnología de Identificación Automática",
+        "Carreras": "IC, LI, LS",
+        "Inicio Cursada": "Miércoles 16/9\n(Escribir a tec_ida@yahoo.com.ar  para consultas y datos de enlace)",
+        "Horarios Cursada": "Miércoles 19 a 21/2130 \n(En formato virtual, podría adaptarse o modificarse si fuera conveniente para facilitar la participación/asistencia de los inscriptos).",
+        "Última modificación": "09/09/2020 17:08"
+    },
+    {
+        "Materia": "Tecnologías Aplicadas para Business Intelligence",
+        "Carreras": "LI, LS",
+        "Inicio Cursada": "Las clases comienzan el Lunes 26/8/2024. Aula 3.",
+        "Horarios Cursada": "Clases teórico prácticas, los Lunes de 16:30 a 19:30 hs. Asistencia obligatoria a las clases de presentación de trabajos, a definir en la primera clase.",
+        "Última modificación": "02/08/2024 17:01"
+    },
+    {
+        "Materia": "Teoría de Grafos",
+        "Carreras": "LI, LS",
+        "Inicio Cursada": "A determinar.",
+        "Horarios Cursada": "Encuesta de horarios: https://forms.gle/J33k1WXCuQVyRUJz8",
+        "Última modificación": "29/07/2024 19:27"
+    },
+    {
+        "Materia": "Teoría de la Computación y Verificación de Programas Avanzada",
+        "Carreras": "LI",
+        "Inicio Cursada": "",
+        "Horarios Cursada": "",
+        "Última modificación": ""
+    },
+    {
+        "Materia": "Tesina de Licenciatura",
+        "Carreras": "LS",
+        "Inicio Cursada": "",
+        "Horarios Cursada": "",
+        "Última modificación": ""
+    }
+]
