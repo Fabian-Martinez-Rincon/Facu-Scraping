@@ -1,5 +1,13 @@
 [
     {
+        "materia": "Matemática B",
+        "titulo": "INICIO DE CLASES",
+        "cuerpo": "INICIO: Lunes 19/08en el CIyTTSolicitar acceso enIDEASapartir del 15/08 al curso denominado:Matematica BCualquier duda escribir a matematica.cienciadedatos@gmail.com",
+        "fecha": "10/08/2024 13:12",
+        "autor": "Andrea  Rey Grange",
+        "adjuntos": []
+    },
+    {
         "materia": "Taller de Programación",
         "titulo": "Elección de Turnos",
         "cuerpo": "En el archivo adjunto se encuentra el link correspondiente a la selección de turnos para cursar el Taller de Programación",
@@ -78,14 +86,6 @@
         "titulo": "Final - Mesa Agosto 2024",
         "cuerpo": "Jueves 08-08-2024 - 10:30 hs. - Aula 5 Postgrado",
         "fecha": "06/08/2024 11:00",
-        "autor": " Pablo Thomas",
-        "adjuntos": []
-    },
-    {
-        "materia": "Diseño de Bases de Datos",
-        "titulo": "Final - Mesa Agosto 2024",
-        "cuerpo": "Jueves 08-08-2024 - 10:30 hs. - Aula 5 Postgrado",
-        "fecha": "06/08/2024 10:59",
         "autor": " Pablo Thomas",
         "adjuntos": []
     }
