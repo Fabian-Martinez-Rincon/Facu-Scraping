@@ -1,0 +1,92 @@
+[
+    {
+        "materia": "Taller de Programación",
+        "titulo": "Elección de Turnos",
+        "cuerpo": "En el archivo adjunto se encuentra el link correspondiente a la selección de turnos para cursar el Taller de Programación",
+        "fecha": "08/08/2024 12:08",
+        "autor": "Laura De Giusti",
+        "adjuntos": [
+            {
+                "nombre": "Inscripción TALLER 2024-Link.pdf",
+                "public_path": "https://gestiondocente.info.unlp.edu.ar/uploads/7c3ff28837e1ed618915954e5a385cec.pdf"
+            }
+        ]
+    },
+    {
+        "materia": "Diseño de Bases de Datos",
+        "titulo": "Inicio de Clases Teóricas 2024",
+        "cuerpo": "Turno Tarde: Jueves 15-08-2024 - 14:30 hs. - Aula 5Turno Mañana: Viernes 16-08-2024 - 08:30 hs. - Aula 5",
+        "fecha": "07/08/2024 13:11",
+        "autor": " Pablo Thomas",
+        "adjuntos": []
+    },
+    {
+        "materia": "Taller de Proyecto II",
+        "titulo": "Inicio de Clases",
+        "cuerpo": "Toda la información está en la sección correspondiente de este sitio en la sección \"Inicio de Clases\"",
+        "fecha": "07/08/2024 09:41",
+        "autor": " Fernando Tinetti",
+        "adjuntos": []
+    },
+    {
+        "materia": "Programación Distribuida y Tiempo Real",
+        "titulo": "Inicio de Clases",
+        "cuerpo": "Toda la información está en la sección correspondiente de este sitio en la sección \"Inicio de Clases\"",
+        "fecha": "07/08/2024 09:41",
+        "autor": " Fernando Tinetti",
+        "adjuntos": []
+    },
+    {
+        "materia": "Computabilidad y Complejidad",
+        "titulo": "Inicio de Clases",
+        "cuerpo": "Toda la información está en la sección correspondiente de este sitio en la sección \"Inicio de Clases\"",
+        "fecha": "07/08/2024 09:40",
+        "autor": " Fernando Tinetti",
+        "adjuntos": []
+    },
+    {
+        "materia": "Desarrollo de Software en Sistemas Distribuidos",
+        "titulo": "Inicio Clases 2024",
+        "cuerpo": "Inicio de Clases 22/8/24 18hs Aula 7.",
+        "fecha": "07/08/2024 08:20",
+        "autor": "Juan Alberto Devincenzi",
+        "adjuntos": []
+    },
+    {
+        "materia": "Redictado - Seminario de Lenguajes PHP, React y API Rest",
+        "titulo": "Comienzo de clases - segundo semestre -2024",
+        "cuerpo": "TEORÍAAULA 2 - Lunes de 8:00 a 10:00 hs.COMIENZO TEORÍA 19/08PRÁCTICASAULA 1-1 - Martes 17.30 a 19:30AULA 1-1 - Jueves 15:30 a 17:30COMIENZO PRÁCTICA 3/09",
+        "fecha": "06/08/2024 19:21",
+        "autor": " Luciano Iglesias",
+        "adjuntos": []
+    },
+    {
+        "materia": "Taller de Programación",
+        "titulo": "Novedades Taller de Programación 2024",
+        "cuerpo": "La información se encuentra en el archivo adjunto.",
+        "fecha": "06/08/2024 15:17",
+        "autor": " Virginia Ainchil",
+        "adjuntos": [
+            {
+                "nombre": "Inscripción-TALLER-2024.pdf",
+                "public_path": "https://gestiondocente.info.unlp.edu.ar/uploads/7b5410aace4ce6c2b56fdf89717cba76.pdf"
+            }
+        ]
+    },
+    {
+        "materia": "Fundamentos de Organización de Datos",
+        "titulo": "Final - Mesa Agosto 2024",
+        "cuerpo": "Jueves 08-08-2024 - 10:30 hs. - Aula 5 Postgrado",
+        "fecha": "06/08/2024 11:00",
+        "autor": " Pablo Thomas",
+        "adjuntos": []
+    },
+    {
+        "materia": "Diseño de Bases de Datos",
+        "titulo": "Final - Mesa Agosto 2024",
+        "cuerpo": "Jueves 08-08-2024 - 10:30 hs. - Aula 5 Postgrado",
+        "fecha": "06/08/2024 10:59",
+        "autor": " Pablo Thomas",
+        "adjuntos": []
+    }
+]
