@@ -176,9 +176,7 @@ def main():
 - **`url` y `archivo_json`**: Define la URL de la página web que se va a analizar y el nombre del archivo donde se almacenarán los datos JSON.
 - **Lógica principal**:
   - **Fetch HTML**: Llama a `fetch_webpage_content` para obtener el HTML de la página.
-  - **
-
-Parse HTML**: Si se obtuvo el HTML, llama a `parse_materias_from_html` para extraer los datos de las materias.
+  - **Parse HTML**: Si se obtuvo el HTML, llama a `parse_materias_from_html` para extraer los datos de las materias.
   - **Load previous data**: Intenta cargar los datos previamente guardados desde el archivo JSON.
   - **Compare and save**: Compara los datos nuevos con los antiguos utilizando `compare_materias`. Si hay cambios, se notifica y guarda la nueva versión de los datos. Si no hay cambios, solo se informa.
 
